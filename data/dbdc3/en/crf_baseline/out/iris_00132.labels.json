@@ -1,0 +1,84 @@
+{
+  "dialogue-id" : "0",
+  "turns" : [ {
+    "turn-index" : 1,
+    "labels" : [ {
+      "breakdown" : "O",
+      "prob-O" : 1.0,
+      "prob-T" : 0.0,
+      "prob-X" : 0.0
+    } ]
+  }, {
+    "turn-index" : 3,
+    "labels" : [ {
+      "breakdown" : "O",
+      "prob-O" : 1.0,
+      "prob-T" : 0.0,
+      "prob-X" : 0.0
+    } ]
+  }, {
+    "turn-index" : 5,
+    "labels" : [ {
+      "breakdown" : "O",
+      "prob-O" : 1.0,
+      "prob-T" : 0.0,
+      "prob-X" : 0.0
+    } ]
+  }, {
+    "turn-index" : 7,
+    "labels" : [ {
+      "breakdown" : "X",
+      "prob-O" : 0.0,
+      "prob-T" : 0.0,
+      "prob-X" : 1.0
+    } ]
+  }, {
+    "turn-index" : 9,
+    "labels" : [ {
+      "breakdown" : "X",
+      "prob-O" : 0.0,
+      "prob-T" : 0.0,
+      "prob-X" : 1.0
+    } ]
+  }, {
+    "turn-index" : 11,
+    "labels" : [ {
+      "breakdown" : "X",
+      "prob-O" : 0.0,
+      "prob-T" : 0.0,
+      "prob-X" : 1.0
+    } ]
+  }, {
+    "turn-index" : 13,
+    "labels" : [ {
+      "breakdown" : "O",
+      "prob-O" : 1.0,
+      "prob-T" : 0.0,
+      "prob-X" : 0.0
+    } ]
+  }, {
+    "turn-index" : 15,
+    "labels" : [ {
+      "breakdown" : "X",
+      "prob-O" : 0.0,
+      "prob-T" : 0.0,
+      "prob-X" : 1.0
+    } ]
+  }, {
+    "turn-index" : 17,
+    "labels" : [ {
+      "breakdown" : "X",
+      "prob-O" : 0.0,
+      "prob-T" : 0.0,
+      "prob-X" : 1.0
+    } ]
+  }, {
+    "turn-index" : 19,
+    "labels" : [ {
+      "breakdown" : "X",
+      "prob-O" : 0.0,
+      "prob-T" : 0.0,
+      "prob-X" : 1.0
+    } ]
+  } ]
+}
